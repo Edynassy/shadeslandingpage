@@ -48,8 +48,6 @@ button{
 }
 
 
-
-
 /* Ogb styles the main here*/
 .header1 {
     text-align: center;
@@ -59,9 +57,6 @@ button{
 }
 body{
     background-color: skyblue;
-}
-.div1{
-    gap: 1px;
 }
 
 .but2 {
