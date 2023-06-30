@@ -79,3 +79,21 @@ body{
 
 
 /* salem styles the footer */
+.salem_footer{
+    background-color: rgb(142, 177, 190);
+    display: flex;
+    gap: 250px;
+}
+.salem_div1{
+    justify-content: center;
+}
+.salem_div2{
+    justify-content: center;
+}
+.salem_div3{
+    justify-content: center;
+}
+i{
+    color: rgb(142, 177, 190);
+    display: flex;
+}
